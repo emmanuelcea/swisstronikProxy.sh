@@ -1,0 +1,1 @@
+# swisstronikProxy.sh
